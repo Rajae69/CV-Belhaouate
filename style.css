@@ -1,0 +1,45 @@
+
+
+
+
+h3 h4 {
+    
+    text-align: center;
+}
+
+
+h3{
+    color:rgb(31, 101, 141);
+    text-align: center;
+   font-style: italic;
+}
+
+
+.skills .progress .progress-bar-primary{
+    background:black ;
+}
+
+.titre {
+    text-align: center;
+    font-style: italic;
+}
+
+.Social-Icons{
+    list-style: none;
+    
+}
+
+.Social-Icons li{
+    display: inline;
+   
+ 
+
+}
+.fa{
+    color:black;
+
+}
+
+#basPage{
+    text-align: center;
+}
